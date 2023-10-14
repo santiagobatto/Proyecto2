@@ -1,4 +1,4 @@
-{- Santiago Denis : Algoritmos y estructuras de datos: Proyecto2.hs -}
+{- Santiago Batto : Algoritmos y estructuras de datos: Proyecto2.hs -}
 {---------- 1 ----------}
 
 {-- a --}
